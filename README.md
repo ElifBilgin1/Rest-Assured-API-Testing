@@ -1,4 +1,4 @@
-Rick And Morty Acceptance Test
+###Rick And Morty Acceptance Test
 This project was created to test Rick And Morty API using Rest-Assured. If you want to take a look at my medium post, link is here.
 
 Required software
