@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test">
+
+    <test name="rick-and-morty-all-test-cases" preserve-order="false" parallel="classes" thread-count="20">
+
+        <classes>
+            <class name="GetASingleCharacterTest"/>
+            <class name="GetMultipleCharactersTest"/>
+            <class name="FilterCharactersTest"/>
+            <class name="GetAllCharactersTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
